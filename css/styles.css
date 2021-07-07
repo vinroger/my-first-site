@@ -31,7 +31,10 @@ a{
 a:hover {
   color :#EAF6F6;
 }
-
+.mountain{
+  width :  50%;
+  height : 60%;
+}
 .bottom-container {
   background-color : #66BFBF;
   padding : 30px;
